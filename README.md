@@ -8,6 +8,7 @@ This project uses gliner-spacy and it is a zero-shot Named Entity Recognition (N
 
 ```
 python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
